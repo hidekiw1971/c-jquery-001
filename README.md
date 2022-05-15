@@ -3,9 +3,12 @@
 ## イメージ画像
 
 - chrome
--
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/99580997/168455442-25874969-abb3-4f4f-94f2-1826e9b911c3.png">
+<img width="776" alt="image" src="https://user-images.githubusercontent.com/99580997/168455468-c4bf8abf-8010-4c06-814f-bc903114d99e.png">
+<img width="776" alt="image" src="https://user-images.githubusercontent.com/99580997/168455478-13bf46c4-823f-4b1c-97c5-9b90f3634385.png">
+
 - safari
--
+<img width="565" alt="image" src="https://user-images.githubusercontent.com/99580997/168455488-3b1a6cc3-0cca-4fe7-b692-2b67b52962b1.png">
 
 ## 概要
 
@@ -26,7 +29,7 @@
 ## 使い方
 
 - 「copy start」から「copy end」をコピペ。
-- css: src -> module -> xxx をコピペ。
+- css: src -> module -> target をコピペ。
 
 ## w3c html チェック結果
 
